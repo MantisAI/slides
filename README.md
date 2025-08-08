@@ -1,4 +1,4 @@
-# MantisAI Slides Repository
+# Mantis Slides Repository
 
 A centralized repository for presentation slides from MantisAI team talks and presentations.
 
